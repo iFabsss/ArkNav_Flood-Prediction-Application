@@ -1,4 +1,4 @@
-﻿# ArkNav 🌊🚨
+﻿# ArkNav: An AI-Powered Flood Risk Knowledge and Navigation Application 🌊🚨
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![Flutter](https://img.shields.io/badge/flutter-3.13-blue)](https://flutter.dev/)
@@ -174,3 +174,4 @@ Remember: AI can guide you, but always prioritize official warnings and safety f
 
 
 ArkNav – Navigating Floods with AI and Care.
+
